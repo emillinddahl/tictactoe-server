@@ -11,18 +11,15 @@ ________________________________________________________________________________
 
 The folder contains:
 
-- Diagrams (folder)
-	- class (PDF)
-	- sequence (PDF)
-- FINAL (Folder)
-	- GameServer (Folder)
-		- bin (Folder)
-		- src (Folder)
-		-.setting (Folder)
-	- GameClient (Folder)
-		- bin (Folder)
-		- src (Folder)
-		-.setting (Folder)
+- Server Diagram (folder)
+	- class diagram (png)
+	- sequence diagram (png)
+- GameServer (Folder)
+	- bin (Folder)
+	- src (Folder)
+	-.setting (Folder)
+- Scrum
+	- Scrum (png)
 ______________________________________________________________________________________________________________________________________________________
 
 Installation of Eclipse:
@@ -36,12 +33,6 @@ To run the server in Eclipse, it is needed to be import in a new workshop in a n
 Once imported, go to run->Run Configurations and make a new java Application.
 Change the name of the java run configuration to 'server' and find the project location by browsing.
 Then tell the Main class to be 'Server', just the project name.
-
-Start the client:
-To run the client in Eclipse, it is needed to be import in a new workshop in a new project.
-Once imported, go to run->Run Configurations and make a new java Application.
-Change the name of the java run configuration to 'client' and find the project location by browsing.
-Then tell the Main class to be 'Client', just the project name.
 
 
 Playing the game:
